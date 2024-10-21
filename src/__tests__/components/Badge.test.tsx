@@ -18,3 +18,4 @@ describe('Badge', () => {
     expect(screen.getByText('Failed')).toBeInTheDocument();
   });
 });
+
