@@ -36,3 +36,4 @@ describe('BudgetCard', () => {
     expect(screen.getByText('120.0%')).toBeInTheDocument();
   });
 });
+
