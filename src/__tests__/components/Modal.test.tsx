@@ -28,3 +28,4 @@ describe('Modal', () => {
     expect(screen.getByRole('dialog')).toHaveAttribute('aria-modal', 'true');
   });
 });
+
