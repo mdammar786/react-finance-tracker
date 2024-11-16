@@ -62,3 +62,4 @@ describe('calculations', () => {
     expect(roundToDecimals(3.7, 0)).toBe(4);
   });
 });
+
