@@ -51,3 +51,4 @@ describe('formatters', () => {
     expect(formatRelativeTime(now)).toBe('just now');
   });
 });
+
