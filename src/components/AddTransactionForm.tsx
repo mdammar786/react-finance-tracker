@@ -106,3 +106,4 @@ export function AddTransactionForm({ onSubmit, onCancel }: AddTransactionFormPro
     </div>
   );
 }
+
