@@ -68,3 +68,4 @@ export function ChartContainer({ title, data, type = 'bar', loading = false }: C
     </Card>
   );
 }
+
