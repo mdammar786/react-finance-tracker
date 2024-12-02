@@ -74,3 +74,4 @@ export function FilterBar({ filter, onFilterChange, onReset }: FilterBarProps) {
     </div>
   );
 }
+
