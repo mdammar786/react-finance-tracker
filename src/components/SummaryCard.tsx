@@ -32,3 +32,4 @@ export function SummaryCard({ title, value, change, icon }: SummaryCardProps) {
     </Card>
   );
 }
+
