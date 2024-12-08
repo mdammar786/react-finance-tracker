@@ -31,3 +31,4 @@ export function Badge({ variant = 'neutral', children }: BadgeProps) {
     </span>
   );
 }
+
