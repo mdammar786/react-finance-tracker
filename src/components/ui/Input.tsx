@@ -57,3 +57,4 @@ export function Input({ label, error, onChange, icon, ...rest }: InputProps) {
     </div>
   );
 }
+
