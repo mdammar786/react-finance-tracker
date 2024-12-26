@@ -22,3 +22,4 @@ export function useFilterContext() {
   if (!ctx) throw new Error('useFilterContext must be inside FilterProvider');
   return ctx;
 }
+
