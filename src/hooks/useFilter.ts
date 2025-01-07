@@ -26,3 +26,4 @@ export function useFilter(initialFilter: TransactionFilter = {}) {
 
   return { filter, debouncedSearch, updateFilter, updateSearch, resetFilter };
 }
+
