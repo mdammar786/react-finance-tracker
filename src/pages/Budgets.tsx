@@ -34,3 +34,4 @@ export function Budgets() {
     </div>
   );
 }
+
