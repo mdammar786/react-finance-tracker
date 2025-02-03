@@ -53,3 +53,4 @@ export async function updateBudget(id: string, data: unknown) {
 export async function loginRequest(credentials: { email: string; password: string }) {
   return request<{ token: string; user: any }>('/auth/login', { method: 'POST', body: credentials });
 }
+
