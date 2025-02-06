@@ -26,3 +26,4 @@ export function clearAll(): void {
     if (k.startsWith(STORAGE_PREFIX)) localStorage.removeItem(k);
   });
 }
+
