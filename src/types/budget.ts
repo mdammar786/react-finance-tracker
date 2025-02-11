@@ -32,3 +32,4 @@ export function getBudgetStatus(budget: Budget): BudgetStatus {
 }
 
 export type BudgetStatus = 'healthy' | 'warning' | 'exceeded';
+
