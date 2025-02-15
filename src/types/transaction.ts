@@ -32,3 +32,4 @@ export const TRANSACTION_CATEGORIES = {
   expense: ['food', 'transport', 'housing', 'utilities', 'entertainment', 'healthcare', 'education', 'shopping', 'other'],
   transfer: ['savings', 'investment', 'checking', 'other'],
 } as const;
+
