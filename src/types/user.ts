@@ -33,3 +33,4 @@ export interface AuthContextType {
   logout: () => void;
   updatePreferences: (prefs: Partial<UserPreferences>) => void;
 }
+
