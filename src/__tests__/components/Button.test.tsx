@@ -28,4 +28,3 @@ describe('Button', () => {
     expect(screen.getByText('Save')).toBeInTheDocument();
   });
 });
-
