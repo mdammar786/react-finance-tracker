@@ -13,4 +13,3 @@ describe('Card', () => {
     expect(container.firstChild).toBeTruthy();
   });
 });
-
