@@ -19,4 +19,3 @@ describe('FilterBar', () => {
     expect(screen.getByPlaceholderText('Search...')).toBeInTheDocument();
   });
 });
-
