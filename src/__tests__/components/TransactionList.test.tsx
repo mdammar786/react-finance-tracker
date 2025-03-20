@@ -46,4 +46,3 @@ describe('TransactionList', () => {
     expect(screen.getByText('income')).toBeInTheDocument();
   });
 });
-
