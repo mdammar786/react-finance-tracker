@@ -31,4 +31,3 @@ describe('useAuth', () => {
     expect(result.current.authState.user).toBeNull();
   });
 });
-
