@@ -34,4 +34,3 @@ describe('useFilter', () => {
     expect(result.current.filter).toEqual({ category: 'food' });
   });
 });
-
