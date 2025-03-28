@@ -35,4 +35,3 @@ describe('useLocalStorage', () => {
     expect(result.current[0]).toBe(15);
   });
 });
-
