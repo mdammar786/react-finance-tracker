@@ -62,4 +62,3 @@ describe('validators', () => {
     expect(sanitizeInput('hello world')).toBe('hello world');
   });
 });
-
