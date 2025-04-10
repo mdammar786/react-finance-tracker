@@ -69,4 +69,3 @@ export function BudgetCard({ budget, onEdit }: BudgetCardProps) {
     </Card>
   );
 }
-
