@@ -48,4 +48,3 @@ export function TransactionList({ transactions, currency = 'USD', onSelect }: Tr
     </div>
   );
 }
-
