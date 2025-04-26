@@ -31,4 +31,3 @@ export function Card({ children, padding = 'md', hoverable = false, onClick }: C
     </div>
   );
 }
-
