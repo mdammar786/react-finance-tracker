@@ -70,4 +70,3 @@ export function useAuth() {
 
   return { authState, login, logout, updatePreferences };
 }
-
