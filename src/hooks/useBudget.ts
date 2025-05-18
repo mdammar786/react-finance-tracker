@@ -54,4 +54,3 @@ export function useBudget(transactions: { amount: number; category: string; type
 
   return { budgets, summary, isLoading, updateBudget, refresh: loadBudgets };
 }
-
