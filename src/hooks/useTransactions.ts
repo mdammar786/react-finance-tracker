@@ -94,4 +94,3 @@ export function useTransactions() {
     refresh,
   };
 }
-
