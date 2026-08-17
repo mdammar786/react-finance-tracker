@@ -75,7 +75,7 @@ src/
 - **Dashboard** — Overview with balance, income, expense summaries and spending breakdown charts
 - **Reports** — Monthly expense trends and top spending category visualizations
 - **Authentication** — Login flow with token persistence and preference management
-- **Responsive Layout** — Adaptive grid layouts for varying screen sizes
+- **Responsive Layout** — Adaptive grid layouts for varying screen sizes.
 
 ## Tech Stack
 
